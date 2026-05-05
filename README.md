@@ -37,18 +37,6 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=NafisFuadBarshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nafisfuadbarshan)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafisFuadBarshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="NafisFuadBarshan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&show_icons=true&locale=en&theme=radical" alt="NafisFuadBarshan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NafisFuadBarshan&theme=radical" alt="NafisFuadBarshan" /></p>
