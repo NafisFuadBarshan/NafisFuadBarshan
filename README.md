@@ -8,11 +8,14 @@
 ### 🏆 Achievements
 
 - 🎖️ **4th Place** – Intra-University Math Olynpiad   
-   <strong>UAP Math Club – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-placed-4th-in-the-intra-university-math-activity-7457426695894081537-bNLC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Math Fest 3.0</a> <sub>(October 2024) </sub>
+   <strong>UAP Math Club – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-placed-4th-in-the-intra-university-math-activity-7457426695894081537-bNLC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Math Fest 3.0</a> <sub>(28th October 2024) </sub>
  
 - 🎖️ **Champion** – Intra-Department PES Tournament  
-  <strong>Sports Club, CSE, UAP – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-became-the-champion-in-the-intra-department-activity-7457428215507304449-0Y0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Intra-Department PES Tournament</a> <sub>(March 2022) </sub>
+  <strong>Sports Club, CSE, UAP – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-became-the-champion-in-the-intra-department-activity-7457428215507304449-0Y0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Intra-Department PES Tournament</a> <sub>(10th March 2022) </sub>
 
+- 🎖️ **Champion** – World Cup Tournament  
+  <strong>Fighting-XI – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-became-a-champion-in-the-world-cup-tournament-activity-7457435654503845888-GRul?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">World Cup Tournament</a> <sub>(8th November, 2022) </sub>
+  
 <br/>
 
 # 🌐 Socials:
