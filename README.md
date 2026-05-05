@@ -29,17 +29,17 @@
 
 ![NafisFuadBarshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdyhakash&theme=vue-dark&hide_border=false)
 
-![NafisFuadBarshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyhakash&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![NafisFuadBarshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisFuadBarshan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdyhakash&theme=tokyo-night&hide_border=true)](https://github.com/mdyhakash)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NafisFuadBarshan&theme=tokyo-night&hide_border=true)](https://github.com/mdyhakash)
 
 </div>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=mdyhakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NafisFuadBarshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
 
@@ -47,8 +47,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyhakash&show_icons=true&locale=en&layout=compact&theme=radical" alt="mdyhakash" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafisFuadBarshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="mdyhakash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyhakash&show_icons=true&locale=en&theme=radical" alt="mdyhakash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&show_icons=true&locale=en&theme=radical" alt="mdyhakash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyhakash&theme=radical" alt="mdyhakash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NafisFuadBarshan&theme=radical" alt="mdyhakash" /></p>
