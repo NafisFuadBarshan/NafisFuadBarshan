@@ -25,9 +25,9 @@
 
 # 📊 GitHub Stats:
 
-![NafisFuadBarshan's Stats](https://github-readme-stats.vercel.app/api?username=mdyhakash&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![NafisFuadBarshan's Stats](https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![NafisFuadBarshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdyhakash&theme=vue-dark&hide_border=false)
+![NafisFuadBarshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NafisFuadBarshan&theme=vue-dark&hide_border=false)
 
 ![NafisFuadBarshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisFuadBarshan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
@@ -47,8 +47,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafisFuadBarshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="mdyhakash" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafisFuadBarshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="NafisFuadBarshan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&show_icons=true&locale=en&theme=radical" alt="mdyhakash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&show_icons=true&locale=en&theme=radical" alt="NafisFuadBarshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NafisFuadBarshan&theme=radical" alt="mdyhakash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NafisFuadBarshan&theme=radical" alt="NafisFuadBarshan" /></p>
