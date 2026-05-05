@@ -25,12 +25,6 @@
 
 # 📊 GitHub Stats:
 
-![NafisFuadBarshan's Stats](https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-![NafisFuadBarshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NafisFuadBarshan&theme=vue-dark&hide_border=false)
-
-![NafisFuadBarshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisFuadBarshan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
 <div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NafisFuadBarshan&theme=tokyo-night&hide_border=true)](https://github.com/mdyhakash)
