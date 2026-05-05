@@ -8,19 +8,16 @@
 ### 🏆 Achievements
 
 - 🎖️ **4th Place** – Intra-University Math Olynpiad   
-   <strong>UAP Math Club – </strong> <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">Math Fest 3.0</a> <sub>(October 2024) </sub>
-
-- 🥈 **1st Runners-Up** – Hackathon  
-  <strong>UAP SNH Club – </strong> <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">INNOVATEX 2025</a> <sub>(May 2025) </sub>
+   <strong>UAP Math Club – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-placed-4th-in-the-intra-university-math-activity-7457426695894081537-bNLC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Math Fest 3.0</a> <sub>(October 2024) </sub>
  
-- 🎖️ **4th Place** – Hackathon  
-  <strong>MIST Innovation Club – </strong> <a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_we-the-mavericks-participated-in-the-mist-activity-7304528490811269121-u0cB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">NEOFETCH Hackathon</a> <sub>(March 2025) </sub>
+- 🎖️ **Champion** – Intra-Department PES Tournament  
+  <strong>Sports Club, CSE, UAP – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-became-the-champion-in-the-intra-department-activity-7457428215507304449-0Y0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Intra-Department PES Tournament</a> <sub>(March 2022) </sub>
 
 <br/>
 
 # 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdyhakash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdyhakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdyhakash) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdyhakash)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/barshan2001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/n.f.barshan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafis-fuad-barshan-46b5301a5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nafis_barshan)
 
 # 💻 Tech Stack:
 
