@@ -11,11 +11,10 @@
    <strong>UAP Math Club – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-placed-4th-in-the-intra-university-math-activity-7457426695894081537-bNLC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Math Fest 3.0</a> <sub>(28th October 2024) </sub>
 
 - 🥈 **Deans Awardee** – UAP  
-  <strong>University of Asia Pacific – </strong> <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">Fall 24</a> <sub>(October 2025) </sub>
+  <strong>University of Asia Pacific – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_14-10-2025-alhamdulillah-honored-to-receive-activity-7457789843956203520-Mzgj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Fall 24</a> <sub>(14th October 2025) </sub>
 
 - 🥈 **Deans Awardee** – UAP  
-  <strong>University of Asia Pacific – </strong> <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">Spring 25</a> <sub>(May 2026) </sub>
-
+  <strong>University of Asia Pacific – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_03-05-2026-alhamdulillah-deans-award-for-activity-7457790915819114496-6kk8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Spring 25</a> <sub>(3rd May 2026) </sub>
  
 - 🎖️ **Champion** – Intra-Department PES Tournament  
   <strong>Sports Club, CSE, UAP – </strong> <a href="https://www.linkedin.com/posts/nafis-fuad-barshan-46b5301a5_i-became-the-champion-in-the-intra-department-activity-7457428215507304449-0Y0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_0QZMBHMAwYghaM_mg33ptPi8iOAG1yrM">Intra-Department PES Tournament</a> <sub>(10th March 2022) </sub>
