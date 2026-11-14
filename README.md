@@ -150,12 +150,14 @@ Digital Drawing with Photoshop (Grameenphone Academy) · Generative AI Mastermin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NafisFuadBarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisFuadBarshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<a href="https://github.com/NafisFuadBarshan">
+  <img height="160" src="https://streak-stats.demolab.com/?user=NafisFuadBarshan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</a>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NafisFuadBarshan&theme=tokyo-night&hide_border=true)](https://github.com/NafisFuadBarshan)
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NafisFuadBarshan&theme=tokyonight" alt="Profile details"/>
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NafisFuadBarshan&theme=tokyonight" alt="Repos per language"/>
 
 </div>
 
