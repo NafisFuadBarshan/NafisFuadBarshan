@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%9A%80%20Portfolio-Visit%20Site-36BCF7?style=for-the-badge&labelColor=0f2027)](https://nafisfuadbarshan.github.io/nafis-portfolio-2d)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%9A%80%20Portfolio-Visit%20Site-36BCF7?style=for-the-badge&labelColor=0f2027)](https://nafisfuadbarshan.github.io/nafis-fuad-barshan-portfolio/)
 [![Download CV](https://img.shields.io/badge/%F0%9F%93%84%20R%C3%A9sum%C3%A9-View%20CV-e3b95a?style=for-the-badge&labelColor=0f2027)](https://nafisfuadbarshan.github.io/nafis-portfolio-2d/cv.html)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027)](mailto:nafisfuadbarshan@gmail.com)
 
